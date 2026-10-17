@@ -34,8 +34,6 @@ bootstrap-portfolio-template/
 ├── about.html
 ├── skills.html
 ├── projects.html
-├── photography.html
-├── blog.html
 └── contact.html
 ```
 
